@@ -10,6 +10,6 @@ I'm just watching [CS50](https://www.youtube.com/playlist?list=PLhQjrBD2T383f9sc
 
 So 101 in binary would be 5, 110 in decimal would be 6 and so on.
 
-$$
-x * 4 + y * 2 + z * 1
-$$
+$x * 4 + y * 2 + z * 1$
+
+
